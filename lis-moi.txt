@@ -1,0 +1,2 @@
+- regarde la video 45 (gestion de l'erreur window)  pour voir comment récuperer le JWT token avec localstorage 
+

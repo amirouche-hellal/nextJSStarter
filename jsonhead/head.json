@@ -1,0 +1,43 @@
+[
+   { 
+       "page" : "home",
+
+        "title":" la page home "
+
+        
+   }  ,
+    { 
+        "page" : "blog",
+
+        "title":" la page blog "
+
+        
+    }  ,
+    { 
+        "page" : "profile",
+ 
+         "title":" la page profile "
+ 
+         
+    }  ,
+     { 
+         "page" : "departements",
+ 
+         "title":" la page departements "
+ 
+         
+     }   ,{ 
+        "page" : "categories",
+ 
+         "title":" la page categories "
+ 
+         
+    }  ,
+     { 
+         "page" : "items",
+ 
+         "title":" la page items "
+ 
+         
+     }    
+]

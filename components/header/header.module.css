@@ -1,0 +1,15 @@
+
+    .header{
+        margin-bottom:20px;
+        padding:20px;
+        border: 1px solid blue
+    }
+    .link {
+        margin: 15px;
+        color: red;
+        cursor: pointer;
+    }
+    .active{
+        color: blue;
+        margin: 15px ;
+    }
